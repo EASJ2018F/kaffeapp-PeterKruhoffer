@@ -31,7 +31,7 @@ namespace kaffe.Tests
             //Act
             string styrke = flatWhite.Styrke();
             //Assert
-            Assert.AreEqual("Middel", styrke);
+            Assert.AreEqual("Mild", styrke);
         }
     }
 }
